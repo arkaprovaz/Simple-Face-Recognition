@@ -1,4 +1,4 @@
-# Simple-Face-Recognition
+# Simple Face Recognition
 
 This program uses OpenCV and Haarcascade classifier to detect faces.
 
