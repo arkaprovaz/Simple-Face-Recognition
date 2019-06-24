@@ -1,5 +1,6 @@
 # Simple Face Recognition
 
+
 This program uses OpenCV and Haarcascade classifier to detect faces.
 
 There are three programs.
@@ -17,3 +18,14 @@ all the trainned models save to the directory `face_data`
 `face_data.py` is mandatory to run at least once before running the `face_recognition.py` otherwise it will not be able to find any face data.
 
 Press `q` to terminate the program.
+
+
+### Prerequisites
+
+#### OpenCV
+
+command to install OpenCV `pip install opencv-python`
+
+#### NumPy
+
+command to install OpenCV `pip install numpy`
